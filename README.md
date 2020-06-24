@@ -17,3 +17,5 @@ This is a poc using gRPC and Jaeger as Opentracing implementation
 2º Run the server, to do that run the `gRPCServer.class`
 
 3º Run the client, to do that run the `gRPCClient.class`
+
+# Be Happy

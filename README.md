@@ -5,7 +5,9 @@ This is a poc using gRPC and Jaeger as Opentracing implementation
 # Stack
 
 [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+
 [Jaeger](https://www.jaegertracing.io/)
+
 [gPRC](https://grpc.io/)
 
 # Testing 

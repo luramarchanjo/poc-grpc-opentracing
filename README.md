@@ -10,6 +10,16 @@ This is a poc using gRPC and Jaeger as Opentracing implementation
 
 [gPRC](https://grpc.io/)
 
+# Pre-requirements
+
+## Jaeger
+
+`docker run -d --restart=always --net=host --name=jaeger jaegertracing/all-in-one`
+
+## Jaeger UI
+
+`http://localhost:16686/search`
+
 # Testing 
 
 1º Run the command bellow:

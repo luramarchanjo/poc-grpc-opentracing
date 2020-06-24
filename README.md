@@ -30,4 +30,8 @@ This is a poc using gRPC and Jaeger as Opentracing implementation
 
 3º Run the client, to do that run the `gRPCClient.class`
 
+4º Open the [Jaeger UI](http://localhost:16686/search) and find the traces, etc.
+
+![alt text](jaeger-example.png "Jaeger UI")
+
 # Be Happy
